@@ -12,10 +12,10 @@
 
 -110 North Bar and 110 South Bar are NOT to be combined based on separate vendor ID and Name
 
-#Deliverable folder:
+#Deliverable folder; provides visuals PDF and PPt. deck with associated insights
 -Identifies top performers among performant F&B categories  
 -Provides surface level insight on how to utilize these metrics for replicated success.
 
-#Notebook folder: 
-Provides 2 separate notebooks; Cleaning and processing, vizualization.  
+#Study Notebook folder; Provides 2 separate notebooks for Cleaning/processing and vizualization.  
+-code documentation in the comments.
 
