@@ -1,7 +1,6 @@
 # 4LAFC
 
-# Objective:
-#Leverage transactional data to uncover strategic opportunities in food & beverage operations at BMO Stadium.
+# Objective: Leverage transactional data to uncover strategic opportunities in food & beverage operations at BMO Stadium.
 
 
 #Assumptions and corresponding transformations:
