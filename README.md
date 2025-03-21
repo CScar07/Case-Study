@@ -13,8 +13,8 @@
 -110 North Bar and 110 South Bar are NOT to be combined based on separate vendor ID and Name
 
 #Deliverable folder:
-#Identifies top performers among performant F&B categories  
-#Provides surface level insight on how to utilize these metrics for replicated success.
+-Identifies top performers among performant F&B categories  
+-Provides surface level insight on how to utilize these metrics for replicated success.
 
 #Notebook folder: 
 Provides 2 separate notebooks; Cleaning and processing, vizualization.  
